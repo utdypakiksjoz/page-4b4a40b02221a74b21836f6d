@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "a90eecf58cbee7dcf8d88809",
+  "owner": "utdypakiksjoz",
+  "repo": "page-4b4a40b02221a74b21836f6d",
+  "title": "杜卡迪",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4b4a40b02221a74b21836f6d",
+      "a": "杜卡迪",
+      "b": "稳定全球clash加速器",
+      "entity": "杜卡迪",
+      "brand": "杜卡迪",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4936754a89f03bff644a7d66ef827446d722367966620f8b2f634a7ae304f31e",
+      "content": {
+        "primary_entity": "杜卡迪",
+        "keyword1": "杜卡迪",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统挑选客户端，按文档完成订阅导入。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "选好套餐，按客户端文档完成订阅配置，即可开始使用。",
+          "AI_CLOSING_TITLE": "选套餐，配订阅",
+          "AI_DESCRIPTION": "，杜卡迪提供基础版、旗舰版与团队版三档订阅，分别支持 3 台、5 台与 20 台设备同时在线。月付流量从 100GB 到 1000GB 递增，旗舰版含 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点。按年付可享优惠，适合根据设备数量与流量需求灵活选择。",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求与订阅周期三个角度选择杜卡迪套餐。",
+          "AI_FEATURES_TITLE": "套餐怎么选",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备、每月 100GB；旗舰版 5 台、300GB；团队版 20 台、1000GB。",
+          "AI_FEATURE_TEXT_2": "旗舰版含 IPLC 专线游戏加速优化，团队版配 VIP 专属高带宽节点，按使用强度挑选。",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，按年付更划算：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "按设备数量",
+          "AI_FEATURE_TITLE_2": "按加速需求",
+          "AI_FEATURE_TITLE_3": "按订阅周期",
+          "AI_GUIDE_INTRO": "三步完成杜卡迪订阅配置。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_HERO_INTRO": "杜卡迪提供多档海外加速订阅，覆盖从个人到团队的不同设备与流量需求。可按月或按年选择基础版、旗舰版与团队版，并按客户端文档导入订阅信息开始使用。",
+          "AI_HERO_SUBTITLE": "多档订阅，按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "月付 100GB 起，旗舰版含 IPLC 专线",
+          "AI_HIGHLIGHT_3": "按年付享优惠，灵活切换周期",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版平衡性能与设备数量，团队版面向多设备高流量场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量，从基础版、旗舰版、团队版中选定合适的一档。",
+          "AI_STEP_TEXT_2": "确认所用设备系统与客户端版本，查看该套餐支持的设备数量是否满足需要。",
+          "AI_STEP_TEXT_3": "依照客户端文档导入订阅信息，完成节点与规则的配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "杜卡迪加速订阅",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，旗舰版每月 300GB，团队版每月 1000GB。轻度浏览选基础版，常看高清视频或玩游戏选旗舰版，多设备共享选团队版。",
+          "AI_FAQ_ANSWER_2": "支持同时在线的设备数因套餐不同。基础版 3 台，旗舰版 5 台，团队版 20 台，按日常需要同时连接的设备数量来选。",
+          "AI_FAQ_ANSWER_3": "月付适合短期体验与灵活调整，年付总价更低且周期稳定。基础版年付 150 元，旗舰版年付 350 元，团队版年付 850 元。",
+          "AI_FAQ_ANSWER_4": "通常导入订阅后即可在客户端内选择节点。不同系统与客户端版本操作位置略有差别，按对应客户端的配置说明完成导入和选点即可。",
+          "AI_FAQ_ANSWER_5": "可以。同一订阅在多种设备类型上分别按客户端配置，具体同时在线数量仍以所购套餐的设备上限为准，超出上限需要升级套餐。",
+          "AI_FAQ_INTRO": "流量、设备数量与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐的流量区别大吗？",
+          "AI_FAQ_QUESTION_2": "一个套餐能同时在几台设备上使用？",
+          "AI_FAQ_QUESTION_3": "月付和年付怎么选？",
+          "AI_FAQ_QUESTION_4": "订阅导入后如何切换节点？",
+          "AI_FAQ_QUESTION_5": "可以在手机和电脑上同时使用吗？",
+          "AI_FAQ_TITLE": "套餐与使用常见疑问"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "8wynzg.cn",
+    "host": "8wynzg.cn"
+  },
+  "file_hashes": {
+    "index.html": "7fe0419306772814ba81f5be62ba8b2629715a75dc32d4a56ff1a73989744d49",
+    "sitemap.xml": "aed30a84af51dd83f59f7c74cc07d0ae85fcaaba8f6c75545b19ebb64007a92d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "895466a6ca1f49fb405929ea0078d86e12cd27fa93848c4dccacbdb56fa34821",
+    "robots.txt": "f122d0a8f967d047826a78eedce159d75d642b9a15b9183ca77d00162809959c",
+    "f29ec7e2bd7aa3fbda93abe16f6debc9.txt": "4d4052da6dd1874d7b267ff9334b08a7af5d831648ab3437c65dd2884dfbb5bf"
+  },
+  "revision": "678fd8daa7be8955814c28af4db30b3740ca329022d7edfc60a495aa3b41803f"
+}
